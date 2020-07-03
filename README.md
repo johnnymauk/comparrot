@@ -1,2 +1,2 @@
-# comparrrot
+# comparrot
 For comparing parrots.
